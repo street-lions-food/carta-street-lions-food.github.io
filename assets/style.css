@@ -110,3 +110,32 @@ body{
 .postres .icon{
     background-image: url("images/deseos-peruanos.png");
 }
+
+@media only screen and (max-width: 600px) {
+    body{
+        padding: 0;
+    }
+    .container{
+        padding: 0;
+        margin: 0;
+    }
+    .item-title{
+        font-size: 3em;
+    }
+    .item-slogan{
+        font-size: 1.7em;
+    }
+}
+
+.azul{
+    color: #194ebb;
+}
+.gris{
+    color: #4e4e4e;
+}
+.amarillo{
+    color: #ffde00;
+}
+.verde{
+    color: #00fc5f;
+}
