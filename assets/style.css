@@ -37,6 +37,9 @@ body{
 .deseosPeruanos{
     background-color: #ff5d05;
 }
+.desayuno{
+    background-color: #DFD6CD;
+}
 .almasVeganas{
     background-color: #27ffb0;
 }
@@ -84,7 +87,9 @@ body{
     background-repeat: no-repeat;
     background-position: center;
 }
-
+.desayuno .icon{
+    background-image: url("images/coffe.png");
+}
 .deseosPeruanos .icon{
     background-image: url("images/deseos-peruanos.png");
 }
@@ -130,12 +135,24 @@ body{
 .azul{
     color: #194ebb;
 }
+.marron{
+    color: #5b1f00;
+}
+.marronClaro{
+    color: #9a5933;
+}
 .gris{
     color: #4e4e4e;
+}
+.grisClaro{
+    color: #ededed;
 }
 .amarillo{
     color: #ffde00;
 }
 .verde{
     color: #00fc5f;
+}
+.verdeOscuro{
+    color: #00b646;
 }
