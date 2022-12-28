@@ -34,6 +34,9 @@ body{
     text-align: center;
     background-color: #000;
 }
+.street-barra{
+    background-color: #e20d0d;
+}
 .deseosPeruanos{
     background-color: #ff5d05;
 }
@@ -131,7 +134,9 @@ body{
         font-size: 1.7em;
     }
 }
-
+.negro{
+    color: #000;
+}
 .azul{
     color: #194ebb;
 }
